@@ -36,6 +36,10 @@ Install dependencies with:
 
 - Cleaned and processed data is stored in `data/Processed/`.
 
+## Modeling
+
+Created 3 models
+  -
 ## License
 
 MIT License .
